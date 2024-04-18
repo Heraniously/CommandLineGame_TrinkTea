@@ -1,0 +1,4 @@
+1 Matcha 28.50 10 "Matcha is a finely ground powder of specially grown and processed green tea leaves."
+2 Hojicha 20.00 10 "Hojicha is a green tea that is roasted in a porcelain pot over charcoal."
+3 Camomile 12.00 20 "Herbal Tea has no caffeine. This is the perfect choice for the pregnant."
+4 Earl_Grey 9.00 22 "BlackTea from the heaven!"
