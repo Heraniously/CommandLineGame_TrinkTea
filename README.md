@@ -3,14 +3,23 @@ It is a command line game made in c, where users can interact and execute certia
 
 
 The program includes 1 header file, 4 C files and 2 text files.
+
     header.h - It accomodates all header information.
+    
     main.C - Main File
+    
     menu.C - It holds a function displaying the intro pixel art and a function showing the user about the choice options.
+    
     orders.C - It handles functions that are realted to orders. That includes a function to place order and a function to view the order history.
+    
     utility.C - It contains utilities.
-    warehouse.C - 
+    
+    warehouse.C - It contains functions related to taking track of products in the storage.
+    
     orders.txt - Orders placed by customers are saved.
+    
     products.txt - Available products are listed.
+    
 
 
 Once you execute the executable file, the program introduces the user 4 options:
